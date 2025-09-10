@@ -3,7 +3,7 @@
 A smart household management system that helps optimize resource usage, track inventory, and provide consumption insights using machine learning predictions.
 
 ## Features
-
+## Bubbie is shtinky
 - **Inventory Management**: Track food items, energy usage, and water consumption
 - **Consumption Logging**: Record daily usage patterns
 - **Smart Predictions**: ML-powered forecasting for next week's resource needs
